@@ -1,5 +1,7 @@
 # Pure Components
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Thram/thram-components.svg)](https://greenkeeper.io/)
+
  React components using [Pure.css](https://purecss.io/)
 
  # Docs
